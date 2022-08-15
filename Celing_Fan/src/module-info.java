@@ -1,0 +1,2 @@
+module Celing_Fan {
+}
